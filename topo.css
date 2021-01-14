@@ -1,0 +1,19 @@
+body{
+background-image: url("img/background.png");
+	
+}
+.contenedor{
+	
+	cursor:url("img/hammer_03.png"),auto;
+	margin:auto;
+	width: 60%;
+	margin-top:5%;
+	
+	
+
+}
+td{
+	
+	 padding:15px;
+}
+	
